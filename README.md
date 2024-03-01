@@ -1,6 +1,6 @@
-# SQL Project
+# SQL 
 
-This repository contains SQL projects and exercises
+This repository contains SQL exercises
 
 ### GOAL
 The goal of this repository is to show my experience using SQL
